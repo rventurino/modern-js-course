@@ -1,0 +1,3 @@
+VSCode common shortcuts
+
+Open Markdown (.md) preview: Ctrl+Shift+V
