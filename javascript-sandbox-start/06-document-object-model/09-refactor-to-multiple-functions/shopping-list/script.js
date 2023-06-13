@@ -14,4 +14,10 @@ function createNewItem(item) {
   document.querySelector('.items').appendChild(li);
 }
 
+function createButton(classes){
+  const button = document.createElement('button')
+  button.className = classes
+  return button
+}
+
 createNewItem('Cheese');
