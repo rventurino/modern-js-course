@@ -7,7 +7,9 @@ function createListItem(item){
                 </button>`
     document.querySelector('.items').appendChild(li);
 }
+
 createListItem('Eggs');
+
 //clean and performant
 function createNewItem(item){
     //create li element
@@ -29,6 +31,5 @@ function createNewItem(item){
     //add the li to the .items classlist
     document.querySelector('.items').appendChild(li)
 }
-
 
 createNewItem('Cheese')
