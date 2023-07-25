@@ -7,7 +7,7 @@ const global = {
     totalPages: 1,
   },
   api: {
-    apiKey: '',
+    apiKey: 'e66a94914cbf6515f34a7ccbea800fe8',
     apiUrl: 'https://api.themoviedb.org/3/',
   },
 };
