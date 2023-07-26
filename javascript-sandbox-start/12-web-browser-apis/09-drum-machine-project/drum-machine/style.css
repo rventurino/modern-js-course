@@ -37,5 +37,6 @@ h1 {
 
 .keys .playing kbd {
   transform: scale(1.2);
+  background-color: rgba(255, 0, 0, 0.589);
   transition: all 0.07s;
 }
